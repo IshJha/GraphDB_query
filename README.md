@@ -1,6 +1,6 @@
 **Knowledge Graph Creation and Querying with Open-Source LLMs** 
 
-**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collabrative projects ! )** 
+**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collaborative projects ! )** 
 
 This project demonstrates how to leverage Large Language Models (LLMs) to create a knowledge graph and query it using natural language. 
 
@@ -20,4 +20,4 @@ Neo4j Integration: Uses Neo4j as the backend Graph Database for storing and quer
 
 Performance Comparison: Compares the accuracy of different LLM models in generating and querying the knowledge graph.
 
-**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collabrative projects ! )**
+**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collaborative projects ! )**
